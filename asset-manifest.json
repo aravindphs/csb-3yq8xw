@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "https://aravindphs.github.io/csb-3yq8xw/static/js/main.86715893.chunk.js",
+    "main.js.map": "https://aravindphs.github.io/csb-3yq8xw/static/js/main.86715893.chunk.js.map",
+    "runtime-main.js": "https://aravindphs.github.io/csb-3yq8xw/static/js/runtime-main.136e5fd0.js",
+    "runtime-main.js.map": "https://aravindphs.github.io/csb-3yq8xw/static/js/runtime-main.136e5fd0.js.map",
+    "static/js/2.05d131db.chunk.js": "https://aravindphs.github.io/csb-3yq8xw/static/js/2.05d131db.chunk.js",
+    "static/js/2.05d131db.chunk.js.map": "https://aravindphs.github.io/csb-3yq8xw/static/js/2.05d131db.chunk.js.map",
+    "index.html": "https://aravindphs.github.io/csb-3yq8xw/index.html",
+    "precache-manifest.a54ee80cc1527b7e42f2a8472380ae88.js": "https://aravindphs.github.io/csb-3yq8xw/precache-manifest.a54ee80cc1527b7e42f2a8472380ae88.js",
+    "service-worker.js": "https://aravindphs.github.io/csb-3yq8xw/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.136e5fd0.js",
+    "static/js/2.05d131db.chunk.js",
+    "static/js/main.86715893.chunk.js"
+  ]
+}
